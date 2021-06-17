@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.fba04a48.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.2d9719e6.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.2d9719e6.chunk.js.map",
+    "runtime-main.js": "/myPortfolio/static/js/runtime-main.d351083c.js",
+    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.d351083c.js.map",
+    "static/js/2.8d063f18.chunk.js": "/myPortfolio/static/js/2.8d063f18.chunk.js",
+    "static/js/2.8d063f18.chunk.js.map": "/myPortfolio/static/js/2.8d063f18.chunk.js.map",
+    "index.html": "/myPortfolio/index.html",
+    "precache-manifest.80427549f5e36d488c39e400b7a5df8a.js": "/myPortfolio/precache-manifest.80427549f5e36d488c39e400b7a5df8a.js",
+    "service-worker.js": "/myPortfolio/service-worker.js",
+    "static/css/main.fba04a48.chunk.css.map": "/myPortfolio/static/css/main.fba04a48.chunk.css.map",
+    "static/js/2.8d063f18.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.8d063f18.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/a.JPG": "/myPortfolio/static/media/a.50edf48f.JPG",
+    "static/media/b.JPG": "/myPortfolio/static/media/b.6234f253.JPG",
+    "static/media/c.JPG": "/myPortfolio/static/media/c.b86b6b02.JPG",
+    "static/media/deeplearning_ai_logo.png": "/myPortfolio/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/all.css": "/myPortfolio/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/googleAssistant.jpg": "/myPortfolio/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hrishi2.png": "/myPortfolio/static/media/hrishi2.66e2d22b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d351083c.js",
+    "static/js/2.8d063f18.chunk.js",
+    "static/css/main.fba04a48.chunk.css",
+    "static/js/main.2d9719e6.chunk.js"
+  ]
+}
